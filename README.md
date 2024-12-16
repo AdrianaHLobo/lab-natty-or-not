@@ -24,7 +24,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 A Inteligência Artificial no Cotidiano
 
 ## 📒 Descrição
-Fui desafiada a explorar as IAs Generativas para criar contéudos o mais realista possível. De imagens a textos, criei este vídeo bem curto, tem a duraçãode 1 minuto, mas é o suficiente para uma pequena amostra de como o nosso dia a dia se transformou com a chegada das IAs Generativas.
+Fui desafiada a explorar as IAs Generativas para criar contéudos o mais realista possível.
+De imagens a textos, criei este vídeo bem curto, tem a duraçãode de 1 minuto, mas é o suficiente para uma pequena amostra de como o nosso dia a dia se transformou com a chegada das IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGpt para criar o roteiro.
@@ -32,13 +33,15 @@ IA Generativa CANVA para criar o avatar.
 IA Generativa Vidnoz IA para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Usei o ChatGpt para criar um texto curto, um roteiro que tivesse a duração de um vídeo de um minuto. Testei outra IA para gerar o avatar, mas gostei mais do resultado que o CANVA IA criou. A edição e geração do vídeo foi feita no Vidnoz IA, que tem uma interface simples, rápida e interessante.
+Usei o ChatGpt para criar um texto curto, um roteiro que tivesse a duração de um vídeo de um minuto.
+Testei outra IA para gerar o avatar, mas gostei mais do resultado que o CANVA IA criou.
+A edição e geração do vídeo foi feita no Vidnoz IA, que tem uma interface simples, rápida e interessante.
 
 ## 🚀 Resultados
 O vídeo é uma rápida apresentação de como os nossos dias mudaram com a chegada das IAs Generativas, tudo ficou mais concectado e fascinante!
 
 ## 💭 Reflexão (Opcional)
-Este projeto foi bem desafiador, principalmente para quem nunca tinha gerado algo com essas tecnologias, mas fiquei impressionada com o poder das IAs, foi uma experiência incrível, ansiosa para aprender muito mais com as IAs Generattivas!
+Este projeto foi bem desafiador, principalmente para quem nunca tinha gerado algo com essas tecnologias, mas fiquei impressionada com o poder das IAs, foi uma experiência incrível, ansiosa para aprender muito mais com as IAs Generativas!
 ```
 
 ### Exemplos e Insigths
